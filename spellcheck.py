@@ -1,10 +1,3 @@
-# MCS 260 Spring 2022 Project 4
-# Jesus Romero
-# Declaration: I, Jesus Romero, am the sole author of this code, which was developed in accordance with the rules in the couorse syllabus.
-
-
-
-
 import tkinter
 import tkinter.ttk
 from tkinter import Text, Label, Button
